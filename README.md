@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshsingh004/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
