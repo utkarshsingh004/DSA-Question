@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsingh004/DSA-Question/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshsingh004/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
