@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsingh004/DSA-Question/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshsingh004/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/0328-odd-even-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsingh004/DSA-Question/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0189-rotate-array) |
 ## String
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/utkarshsingh004/DSA-Question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
