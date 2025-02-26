@@ -1,30 +1,35 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
-        Stack<Integer> a = new Stack<>();
-        String result="";
-        StringBuilder ans= new StringBuilder(s);
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            if(ch == '('){
-                a.push(i);
-            }
-            else if(ch == ')'){
-              if(!a.isEmpty()){
-                  a.pop();
-              }
-              else{
-                ans.setCharAt(i,'*');
-              }
-            }
-        }
-        while(a.size()>0){
-            ans.setCharAt(a.pop(),'*');
-        }
-        for(int i=0;i<ans.length();i++){
-            if(ans.charAt(i)!='*'){
-                result+=ans.charAt(i);
+        Stack<Integer> stack = new Stack<>(); // Stack to store indices of '('
+        StringBuilder sb = new StringBuilder(s);
+        
+        // Step 1: Identify invalid parentheses
+        for (int i = 0; i < sb.length(); i++) {
+            char ch = sb.charAt(i);
+            if (ch == '(') {
+                stack.push(i); // Store index of '('
+            } else if (ch == ')') {
+                if (!stack.isEmpty()) {
+                    stack.pop(); // Valid match found
+                } else {
+                    sb.setCharAt(i, '*'); // Mark invalid ')'
+                }
             }
         }
-       return result;
+        
+        // Step 2: Remove leftover '(' from the stack
+        while (!stack.isEmpty()) {
+            sb.setCharAt(stack.pop(), '*'); // Mark invalid '('
+        }
+        
+        // Step 3: Build the final string, removing marked characters
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < sb.length(); i++) {
+            if (sb.charAt(i) != '*') {
+                result.append(sb.charAt(i));
+            }
+        }
+        
+        return result.toString();
     }
 }
