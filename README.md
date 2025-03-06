@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/utkarshsingh004/DSA-Question/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/utkarshsingh004/DSA-Question/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/utkarshsingh004/DSA-Question/tree/master/0135-candy) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
