@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/utkarshsingh004/DSA-Question/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
@@ -147,12 +148,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/utkarshsingh004/DSA-Question/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
