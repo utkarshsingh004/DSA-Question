@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh004/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/utkarshsingh004/DSA-Question/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh004/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
 ## Prefix Sum
 |  |
