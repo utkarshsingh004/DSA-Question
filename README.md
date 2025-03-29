@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshsingh004/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/utkarshsingh004/DSA-Question/tree/master/0283-move-zeroes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
