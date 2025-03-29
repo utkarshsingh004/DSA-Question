@@ -22,6 +22,13 @@ class Solution {
                 nums[i]=pref[i-1]*suff[i+1];
             }
         }
+        // int mul=1;
+        // for(int i=0;i<n;i++){
+        //     mul*=nums[i];
+        // }
+        // for(int i=0;i<n;i++){
+        //     nums[i]=mul^i;
+        // }
         return nums;
     }
 }
