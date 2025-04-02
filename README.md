@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/utkarshsingh004/DSA-Question/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
