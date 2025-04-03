@@ -10,18 +10,19 @@ class Solution {
             if (ch == '*') {
                 if (!st.isEmpty()) {
                     st.pop();
+
                 }
             } else {
                 st.push(ch);  
             }
         }
+       char[] result = new char[st.size()];
+        int i = result.length - 1;
         
-        
-        StringBuilder result = new StringBuilder();
         while (!st.isEmpty()) {
-            result.append(st.pop());
+            result[i--] = st.pop();
         }
         
-        return result.reverse().toString();  
+        return new String(result);
     }
 }
