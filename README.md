@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsingh004/DSA-Question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/utkarshsingh004/DSA-Question/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -187,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
