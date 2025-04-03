@@ -16,13 +16,16 @@ class Solution {
                 st.push(ch);  
             }
         }
-       char[] result = new char[st.size()];
-        int i = result.length - 1;
-        
-        while (!st.isEmpty()) {
-            result[i--] = st.pop();
+       String ans="";
+        while(!st.empty()){
+            ans+=st.peek();
+            st.pop();
         }
+       String result="";
+       for(int i=ans.length()-1;i>=0;i--){
+        result+=ans.charAt(i);
+       }
         
-        return new String(result);
+        return result;
     }
 }
