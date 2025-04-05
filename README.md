@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/utkarshsingh004/DSA-Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh004/DSA-Question/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarshsingh004/DSA-Question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/0485-max-consecutive-ones) |
@@ -198,4 +199,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
