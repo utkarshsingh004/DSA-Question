@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsingh004/DSA-Question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -215,4 +218,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
