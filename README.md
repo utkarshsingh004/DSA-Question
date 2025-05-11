@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshsingh004/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/utkarshsingh004/DSA-Question/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/utkarshsingh004/DSA-Question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/utkarshsingh004/DSA-Question/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
