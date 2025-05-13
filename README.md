@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh004/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/utkarshsingh004/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/utkarshsingh004/DSA-Question/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsingh004/DSA-Question/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/utkarshsingh004/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/utkarshsingh004/DSA-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/utkarshsingh004/DSA-Question/tree/master/0169-majority-element) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/utkarshsingh004/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
