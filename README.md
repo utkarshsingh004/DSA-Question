@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## String
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh004/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/utkarshsingh004/DSA-Question/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
+| [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/utkarshsingh004/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
