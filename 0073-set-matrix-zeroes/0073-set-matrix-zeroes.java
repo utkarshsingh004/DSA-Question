@@ -16,15 +16,6 @@ class Solution {
         }
     }
 
-    private void makeZero(int matrix[][]){
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[i].length;j++){
-                if(matrix[i][j]==Integer.MAX_VALUE-10){
-                    matrix[i][j]=0;
-                }
-            }
-        }
-    }
 
     public void setZeroes(int[][] matrix) {
         for(int i=0;i<matrix.length;i++){
@@ -34,6 +25,12 @@ class Solution {
                 }
             }
         }
-        makeZero(matrix);
+       for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[i].length;j++){
+                if(matrix[i][j]==Integer.MAX_VALUE-10){
+                    matrix[i][j]=0;
+                }
+            }
+        }
     }
 }
