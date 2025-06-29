@@ -1,11 +1,14 @@
 class Solution {
-    public int findDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]==nums[i-1]){
-                return nums[i];
+    public int findDuplicate(int[] arr) {
+       int n = arr.length;
+        int freq[] = new int[n + 1];
+        for (int i = 0; i < n; i++) {
+            if (freq[arr[i]] == 0) {
+                freq[arr[i]] += 1;
+            } else {
+                return arr[i];
             }
         }
-        return -1;
+        return 0;
     }
 }
