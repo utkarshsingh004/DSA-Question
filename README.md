@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/utkarshsingh004/DSA-Question/tree/master/0135-candy) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Merge Sort
 |  |
 | ------- |
