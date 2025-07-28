@@ -1,14 +1,15 @@
 class Solution {
-    public int findDuplicate(int[] arr) {
-       int n = arr.length;
-        int freq[] = new int[n + 1];
-        for (int i = 0; i < n; i++) {
-            if (freq[arr[i]] == 0) {
-                freq[arr[i]] += 1;
-            } else {
-                return arr[i];
+    public int findDuplicate(int[] nums) {
+        int n = nums.length;
+        HashSet<Integer> h = new HashSet<>();
+        for(int i=0;i<n;i++){
+            if(!h.contains(nums[i])){
+                h.add(nums[i]);
+            }
+            else{
+                return nums[i];
             }
         }
-        return 0;
+        return -1;
     }
 }
