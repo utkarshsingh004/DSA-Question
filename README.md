@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsingh004/DSA-Question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/utkarshsingh004/DSA-Question/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
