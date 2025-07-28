@@ -1,53 +1,19 @@
-// class Solution {
-//     public int[] productExceptSelf(int[] nums) {
-//         int n=nums.length;
-//         int prefix=1;
-//         int suffix=1;
-//         int ans [] = new int[n];
-//         ans[0]=1;
-//         for(int i=1;i<n;i++){
-//            prefix*=nums[i-1];
-//            ans[i]=prefix;
-//         }
-//         for(int i=n-2;i>=0;i--){
-            
-//             suffix*=nums[i+1];
-//             ans[i]*=suffix;
-//         }
-//         return ans;
-//     }
-// }
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n=nums.length;
-        int pref[]=new int[n];
-        int suff[]=new int[n];
-        pref[0]=nums[0];
+        int prefix=1;
+        int suffix=1;
+        int ans [] = new int[n];
+        ans[0]=1;
         for(int i=1;i<n;i++){
-            pref[i]=nums[i]*pref[i-1];
+           prefix*=nums[i-1];
+           ans[i]=prefix;
         }
-        suff[n-1]=nums[n-1];
         for(int i=n-2;i>=0;i--){
-            suff[i]=nums[i]*suff[i+1];
+            
+            suffix*=nums[i+1];
+            ans[i]*=suffix;
         }
-        for(int i=0;i<n;i++){
-            if(i==0){
-                nums[i]=suff[i+1];
-            }
-            else if(i==n-1){
-                nums[i]=pref[i-1];
-            }
-            else{
-                nums[i]=pref[i-1]*suff[i+1];
-            }
-        }
-        // int mul=1;
-        // for(int i=0;i<n;i++){
-        //     mul*=nums[i];
-        // }
-        // for(int i=0;i<n;i++){
-        //     nums[i]=mul^i;
-        // }
-        return nums;
+        return ans;
     }
 }
