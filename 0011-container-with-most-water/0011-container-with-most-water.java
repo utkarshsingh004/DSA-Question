@@ -1,22 +1,22 @@
 class Solution {
-    public int maxArea(int[] height) {
-        int i = 0, j = height.length - 1;
-        int maxArea = 0;
-
-        while (i < j) {
-            int h = Math.min(height[i], height[j]);
-            int width = j - i;
-            int area = h * width;
-            maxArea = Math.max(maxArea, area);
-
-            // Move the shorter line inward to try and find a taller one
-            if (height[i] < height[j]) {
+    public int maxArea(int[] heigth) {
+        int n = heigth.length;
+        int i=0;
+        int j=n-1;
+        int area=0;
+        int h=0;
+        while(i<j){
+            int width=j-i;
+            if(heigth[i]<=heigth[j]){
+                h=heigth[i];
                 i++;
-            } else {
+            }
+            else{
+                h=heigth[j];
                 j--;
             }
+            area=Math.max(area,h*width);
         }
-
-        return maxArea;
+        return area;
     }
 }
