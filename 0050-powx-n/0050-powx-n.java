@@ -1,24 +1,26 @@
 class Solution {
 
-    public double power(double x, int n){
-         int idx=n;
-        if(n==0){
-            return 1;
+    private double pow(double x, long n){
+         if(n<=0){
+            return 1.0;
         }
-        double res = power(x,n/2);
+        double a = pow(x,n/2);
         if(n%2==0){
-            return res*res;
+            return a*a;
         }
         else{
-            return res*res*x;
+            return a*a*x;
         }
     }
 
     public double myPow(double x, int n) {
-       double ans= power(x,n);
-       if(n<0){
-        return 1/ans;
-       }
-       return ans;
+       long N = n; // Convert to long to safely handle Integer.MIN_VALUE
+        if (N < 0) {
+           x = 1 / x;
+           N = -N;
+        }
+       double res= pow(x,N);
+       return res;
+       
     }
 }
