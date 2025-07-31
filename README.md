@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/utkarshsingh004/DSA-Question/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/utkarshsingh004/DSA-Question/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
 ## Monotonic Stack
 |  |
 | ------- |
