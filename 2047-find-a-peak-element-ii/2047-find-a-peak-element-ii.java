@@ -37,6 +37,6 @@ class Solution {
             }
         }
 
-        return new int[]{-1, -1};  // fallback, though problem guarantees a peak
+        return new int[]{-1, -1};
     }
 }
