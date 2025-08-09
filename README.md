@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/utkarshsingh004/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/utkarshsingh004/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/utkarshsingh004/DSA-Question/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/utkarshsingh004/DSA-Question/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
