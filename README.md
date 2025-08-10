@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/utkarshsingh004/DSA-Question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/utkarshsingh004/DSA-Question/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/utkarshsingh004/DSA-Question/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Matrix
@@ -213,11 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh004/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/utkarshsingh004/DSA-Question/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 ## Database
 |  |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/utkarshsingh004/DSA-Question/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsingh004/DSA-Question/tree/master/0907-koko-eating-bananas) |
