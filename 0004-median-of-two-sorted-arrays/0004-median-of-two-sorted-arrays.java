@@ -1,41 +1,39 @@
 class Solution {
-    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int m = nums2.length;
-        int i = 0, j = 0, count = 0;
-        int total = n + m;
-        int k1 = (total % 2 == 0) ? total / 2 - 1 : total / 2; 
-        int k2 = total / 2;
+    public double findMedianSortedArrays(int[] a, int[] b) {
+        int n1 = a.length;
+        int n2 = b.length;
         
-        double e1 = 0, e2 = 0;
-
-        while (i < n && j < m) {
-            int val;
-            if (nums1[i] < nums2[j]) {
-                val = nums1[i++];
+        // Ensure a is the smaller array
+        if (n1 > n2) {
+            return findMedianSortedArrays(b, a);
+        }
+        
+        int n = n1 + n2;
+        int i = 0;
+        int j = n1; // we search only in a
+        
+        while (i <= j) {
+            int mid = i + (j - i) / 2;  // cut in a
+            int cutB = (n + 1) / 2 - mid; // corresponding cut in b
+            
+            int a1 = (mid > 0) ? a[mid - 1] : Integer.MIN_VALUE; // left a
+            int a2 = (mid < n1) ? a[mid] : Integer.MAX_VALUE;    // right a
+            int b1 = (cutB > 0) ? b[cutB - 1] : Integer.MIN_VALUE; // left b
+            int b2 = (cutB < n2) ? b[cutB] : Integer.MAX_VALUE;    // right b
+            
+            if (a1 <= b2 && b1 <= a2) {
+                if (n % 2 == 1) {
+                    return Math.max(a1, b1);
+                } else {
+                    return (Math.max(a1, b1) + Math.min(a2, b2)) / 2.0;
+                }
+            } else if (a1 > b2) {
+                j = mid - 1;
             } else {
-                val = nums2[j++];
+                i = mid + 1;
             }
-
-            if (count == k1) e1 = val;
-            if (count == k2) e2 = val;
-            count++;
         }
-
-        while (i < n) {
-            int val = nums1[i++];
-            if (count == k1) e1 = val;
-            if (count == k2) e2 = val;
-            count++;
-        }
-
-        while (j < m) {
-            int val = nums2[j++];
-            if (count == k1) e1 = val;
-            if (count == k2) e2 = val;
-            count++;
-        }
-
-        return (total % 2 != 0) ? e2 : (e1 + e2) / 2.0;
+        
+        return 0;
     }
 }
