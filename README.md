@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/utkarshsingh004/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/utkarshsingh004/DSA-Question/tree/master/0342-power-of-four) |
+| [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
+| [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [0812-rotate-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/utkarshsingh004/DSA-Question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
