@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/utkarshsingh004/DSA-Question/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/utkarshsingh004/DSA-Question/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/utkarshsingh004/DSA-Question/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsingh004/DSA-Question/tree/master/0907-koko-eating-bananas) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/utkarshsingh004/DSA-Question/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -467,4 +471,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/utkarshsingh004/DSA-Question/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
