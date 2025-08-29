@@ -1,11 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
         int n=nums.length;
-        Arrays.sort(nums);
-        for(int i=1;i<n;i=i+3){
-            if(nums[i]!=nums[i-1])
-            return nums[i-1];
+        int o=0;
+        int t=0;
+        int th=0;
+        for(int i=0;i<n;i++){
+            o=(o^nums[i]) &(~t);
+            t=(t^nums[i]) & (~o);
         }
-        return nums[n-1];
+        return o;
     }
 }
