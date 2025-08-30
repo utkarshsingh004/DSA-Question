@@ -1,26 +1,22 @@
 class Solution {
-    private long pow(long mid){
-        long p=1;
-        for(int i=0;i<mid;i++){
-            p=p*4;
+    private int num(int n){
+        int count=0;
+        while(n>0){
+            if(n%2==0) count++;;
+            n=n>>1;
         }
-        return p;
+        return count;
     }
     public boolean isPowerOfFour(int n) {
-        long i=0;
-        long j=31;
-        while(i<=j){
-            long mid=i+(j-i)/2;
-            if(pow(mid)==n){
+        if(n<=0) return false;
+        if(n==1) return true;
+        int a=n&(n-1);
+        int count=num(n);
+        if(a==0){
+            if(count%2==0){
                 return true;
             }
-            else if(pow(mid)<n){
-                i=mid+1;
-            }
-            else{
-                j=mid-1;
-            }
         }
-        return  false;
+        return false;
     }
 }
