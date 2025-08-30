@@ -6,8 +6,9 @@ class Solution {
         for(int i=0;i<n;i++){
             if(count==0){
                 ans=nums[i];
+                count=1;
             }
-            if(nums[i]==ans){
+            else if(nums[i]==ans){
                 count++;
             }
             else{
