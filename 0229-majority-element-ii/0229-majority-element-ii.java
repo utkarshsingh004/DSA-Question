@@ -20,12 +20,14 @@ class Solution {
             count1--;
             count2--;
            }
+           System.out.println(count1);
         }
-         count1 = 0; count2 = 0;
+        count1 = 0; count2 = 0;
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] == el1) count1++;
             if (nums[i] == el2) count2++;
         }
+        
         int a=nums.length/3;
         if(count1>a) l.add(el1);
         if(count2>a)l.add(el2);
