@@ -1,27 +1,34 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        HashSet<List<Integer>> h = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
         int n = nums.length;
+        Arrays.sort(nums);  // must sort first
 
         for (int i = 0; i < n - 3; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;  // skip duplicates
+
             for (int j = i + 1; j < n - 2; j++) {
-                long res = (long) target - ((long) nums[i] + (long) nums[j]); // use long
+                if (j > i + 1 && nums[j] == nums[j - 1]) continue;  // skip duplicates
 
-                HashSet<Long> hm = new HashSet<>();
-                for (int k = j + 1; k < n; k++) {
-                    long needed = res - nums[k]; // also long
+                int k = j + 1, l = n - 1;
+                long t = (long) target - ((long) nums[i] + (long) nums[j]); // use long
 
-                    if (hm.contains(needed)) {
-                        List<Integer> l = Arrays.asList(nums[i], nums[j], nums[k], (int) needed);
-                        l.sort(null);
-                        h.add(l);
+                while (k < l) {
+                    long sum = (long) nums[k] + (long) nums[l];
+                    if (sum == t) {
+                        ans.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
+                        k++;
+                        l--;
+                        while (k < l && nums[k] == nums[k - 1]) k++;
+                        while (k < l && nums[l] == nums[l + 1]) l--;
+                    } else if (sum < t) {
+                        k++;
                     } else {
-                        hm.add((long) nums[k]);
+                        l--;
                     }
                 }
             }
         }
-
-        return new ArrayList<>(h);
+        return ans;
     }
 }
