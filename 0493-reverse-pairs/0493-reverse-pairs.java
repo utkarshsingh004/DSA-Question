@@ -1,49 +1,56 @@
 class Solution {
-    private int merge(int []nums, int i, int mid, int j){
-        int count = 0;
-        int l = i, r = mid + 1;
-
-        // Count reverse pairs first
-        while (l <= mid && r <= j) {
-            if ((long)nums[l] > 2L * nums[r]) {
-                count += (mid - l + 1);
-                r++;
-            } else {
-                l++;
+    static int mergeSort(int arr[], int l, int mid, int r){
+        int i=l;
+        int j=mid+1;
+        int count=0;
+        while(i<=mid && j<=r){
+            if((long)arr[i]>(long)2*arr[j]){
+                count+=mid-i+1;
+                j++;
+            }
+            else{
+                i++;
             }
         }
+        i=l;
+        j=mid+1;
 
-        // Merge step
         ArrayList<Integer> a = new ArrayList<>();
-        l = i;
-        r = mid + 1;
-        while (l <= mid && r <= j) {
-            if (nums[l] <= nums[r]) {
-                a.add(nums[l++]);
-            } else {
-                a.add(nums[r++]);
+        while(i<=mid && j<=r){
+            if(arr[i]<=arr[j]){
+                a.add(arr[i]);
+                i++;
+            }
+            else{
+                a.add(arr[j]);
+                j++;
             }
         }
-        while (l <= mid) a.add(nums[l++]);
-        while (r <= j) a.add(nums[r++]);
-
-        for (int k = 0; k < a.size(); k++) {
-            nums[i + k] = a.get(k);
+        while(i<=mid){
+            a.add(arr[i]);
+            i++;
+        }
+        while(j<=r){
+            a.add(arr[j]);
+            j++;
+        }
+        for(i=0;i<a.size();i++){
+            arr[l+i]=a.get(i);
         }
         return count;
     }
-
-    private int mergeSort(int[] nums, int i, int j){
-        if (i >= j) return 0;
-        int mid = i + (j - i) / 2;
-        int count = 0;
-        count += mergeSort(nums, i, mid);
-        count += mergeSort(nums, mid + 1, j);
-        count += merge(nums, i, mid, j);
+    static int merge(int arr[], int l, int r){
+        int count=0;
+        if(l>=r) return count;
+        int mid=l+(r-l)/2;
+        count+=merge(arr,l,mid);
+        count+=merge(arr,mid+1,r);
+        count+=mergeSort(arr,l,mid,r);
         return count;
     }
-
-    public int reversePairs(int[] nums) {
-        return mergeSort(nums, 0, nums.length - 1);
+    static int reversePairs(int arr[]) {
+        // Code Here
+        return merge(arr,0,arr.length-1);
+        
     }
 }
