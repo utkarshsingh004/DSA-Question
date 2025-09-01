@@ -6,7 +6,7 @@ class Solution {
         while(i<=j){
             int mid=i+(j-i)/2;
             while(i<mid && nums[mid]==nums[i]) i++;
-            // while(nums[mid]==nums[j]) j--;
+            while(mid<j && nums[mid]==nums[j]) j--;
             if(nums[mid]==target){
                 return true;
             }
