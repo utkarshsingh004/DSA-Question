@@ -1,31 +1,36 @@
-import java.util.*;
-
 class Solution {
     public int[][] merge(int[][] intervals) {
-        if (intervals.length <= 1) return intervals;
-
-        // Step 1: Sort intervals based on the start time
+        int n=intervals.length;
+        int m=intervals[0].length;
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        List<int[]> merged = new ArrayList<>();
+        List<List<Integer>> arr = new ArrayList<>();
+        int k=0;
+        for(int i=0;i<n;i++){
+            int start=intervals[i][0];
+            int end=intervals[i][1];
 
-        // Step 2: Merge intervals
-        int[] current = intervals[0];
-        for (int i = 1; i < intervals.length; i++) {
-            if (current[1] >= intervals[i][0]) {
-                // Overlapping intervals, merge them
-                current[1] = Math.max(current[1], intervals[i][1]);
-            } else {
-                // No overlap, add current to result and update current
-                merged.add(current);
-                current = intervals[i];
+            if(arr.size()==0){
+                arr.add(Arrays.asList(start,end));
+                k++;
+            }
+            else if(start<=arr.get(k-1).get(1)){
+                if(end>arr.get(k-1).get(1)){
+                    arr.get(k-1).set(1,end);
+                }
+            }
+            else{
+                arr.add(Arrays.asList(start,end));
+                k++;
+            }
+            
+        }
+        int ans[][]=new int[k][2];
+        for(int i=0;i<arr.size();i++){
+            for(int j=0;j<arr.get(i).size();j++){
+                ans[i][j]=arr.get(i).get(j);
             }
         }
-
-        // Add the last interval
-        merged.add(current);
-
-        // Convert list to array
-        return merged.toArray(new int[merged.size()][]);
+        return ans;
     }
 }
