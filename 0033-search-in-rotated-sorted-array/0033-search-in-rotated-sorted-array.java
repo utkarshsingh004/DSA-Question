@@ -10,10 +10,10 @@ class Solution {
             }
             else if(nums[i]<=nums[mid]){
                 if(nums[i]<=target && target<=nums[mid]){
-                    j=mid-1;
+                   j=mid-1;
                 }
                 else{
-                    i=mid+1;
+                     i=mid+1;
                 }
             }
             else{
