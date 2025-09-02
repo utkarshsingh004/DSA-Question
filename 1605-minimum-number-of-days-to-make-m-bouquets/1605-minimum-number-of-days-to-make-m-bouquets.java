@@ -5,12 +5,12 @@ class Solution {
         for(int i=0;i<arr.length;i++){
             if(arr[i]<=mid){
                 count++;
+                if(count==k){
+                    t++;
+                    count=0;
+                }
             }
-            if(arr[i]>mid){
-                count=0;
-            }
-            if(count==k){
-                t++;
+            else{
                 count=0;
             }
         }
