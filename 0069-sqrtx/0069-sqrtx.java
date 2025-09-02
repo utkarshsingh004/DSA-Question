@@ -6,9 +6,11 @@ class Solution {
         while(i<=j){
             long mid=i+(j-i)/2;
             long mul=(long)(mid*mid);
-            if(mul<=(long)x){
+            if(mul==(long)x){
+                return (int)mid;
+            }
+            else if(mul<(long)x){
                 ans=(int)mid;
-                System.out.println(ans);
                 i=mid+1;
             }
             else{
