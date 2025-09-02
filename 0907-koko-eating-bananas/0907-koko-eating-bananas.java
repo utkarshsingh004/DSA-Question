@@ -2,7 +2,7 @@ class Solution {
     private long time(int arr[], int mid){
         long sum=0;
         for(int i=0;i<arr.length;i++){
-           sum += (long) Math.ceil((double) arr[i] / mid);
+           sum += (long) (arr[i] + mid - 1) / mid;
 
         }
         return sum;
