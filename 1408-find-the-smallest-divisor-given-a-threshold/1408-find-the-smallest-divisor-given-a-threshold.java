@@ -2,7 +2,7 @@ class Solution {
     private int total(int arr[], int s){
      int count=0;
      for(int i=0;i<arr.length;i++){
-        count+=Math.ceil((double) arr[i]/s);
+        count+=(arr[i]+s-1)/s;
      }
      return count;
    }
