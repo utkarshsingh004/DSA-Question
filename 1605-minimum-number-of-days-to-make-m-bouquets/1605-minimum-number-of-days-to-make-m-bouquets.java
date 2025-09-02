@@ -1,48 +1,57 @@
 class Solution {
-    private int total(int arr[], int mid, int k){
-        int count=0;
-        int t=0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]<=mid){
-                count++;
-                if(count==k){
-                    t++;
-                    count=0;
-                }
-            }
-            else{
-                count=0;
+
+    private int max(int arr[]){
+        int max = 0;
+        for(int i=0; i<arr.length; i++){
+            if(arr[i] > max){
+                max = arr[i];
             }
         }
-        return t;
+        return max;
     }
-    public int minDays(int[] bloomDay, int m, int k) {
-        int n=bloomDay.length;
-        int min=Integer.MAX_VALUE;
-        int max=0;
-        for(int i=0;i<n;i++){
-            if(max<bloomDay[i]){
-                max=bloomDay[i];
-            }
-            if(min>bloomDay[i]){
-                min=bloomDay[i];
+
+    private int min(int arr[]){
+        int m = Integer.MAX_VALUE;
+        for(int i=0; i<arr.length; i++){
+            if(arr[i] < m){
+                m = arr[i];
             }
         }
-        int i=min;
-        int j=max;
-        int ans=-1;
-        while(i<=j){
-            int mid=i+(j-i)/2;
-            int a=total(bloomDay,mid,k);
-            System.out.println(mid);
-            if(a>=m){
-                ans=mid;
-                // i=mid+1;
-                j=mid-1;
+        return m;
+    }
+
+    private int mD(int[] arr, int day, int k){
+        int count = 0;
+        int bouquets = 0;
+        for(int i=0; i<arr.length; i++){
+            if(arr[i] <= day){
+                count++;
+                if(count == k){
+                    bouquets++;
+                    count = 0;
+                }
+            } else {
+                count = 0;
             }
-            else{
-                // j=mid-1;
-                i=mid+1;
+        }
+        return bouquets;
+    }
+
+    public int minDays(int[] bloomDay, int m, int k) {
+        int n = bloomDay.length;
+        if((long)m * k > n) return -1; // not enough flowers
+
+        int left = min(bloomDay);
+        int right = max(bloomDay);
+        int ans = -1;
+
+        while(left <= right){
+            int mid = left + (right - left) / 2;
+            if(mD(bloomDay, mid, k) >= m){
+                ans = mid;
+                right = mid - 1; // try smaller day
+            } else {
+                left = mid + 1; // need more days
             }
         }
         return ans;
