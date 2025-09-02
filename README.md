@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/utkarshsingh004/DSA-Question/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/utkarshsingh004/DSA-Question/tree/master/0890-lemonade-change) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/utkarshsingh004/DSA-Question/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/utkarshsingh004/DSA-Question/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
+| [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/utkarshsingh004/DSA-Question/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/utkarshsingh004/DSA-Question/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/utkarshsingh004/DSA-Question/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/utkarshsingh004/DSA-Question/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsingh004/DSA-Question/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsingh004/DSA-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
