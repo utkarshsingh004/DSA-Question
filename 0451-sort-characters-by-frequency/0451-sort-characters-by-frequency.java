@@ -8,8 +8,7 @@ class Solution {
             this.c = c;
             this.f = f;
         }
-        @Override
-        public String toString() {
+        public String tooString() {
             return c + " -> " + f;
         }
     }
