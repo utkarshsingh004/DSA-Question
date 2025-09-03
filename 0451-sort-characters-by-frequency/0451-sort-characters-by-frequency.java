@@ -8,9 +8,9 @@ class Solution {
             this.c = c;
             this.f = f;
         }
-        public String tooString() {
-            return c + " -> " + f;
-        }
+        // public String tooString() {
+        //     return c + " -> " + f;
+        // }
     }
 
     public String frequencySort(String s) {
