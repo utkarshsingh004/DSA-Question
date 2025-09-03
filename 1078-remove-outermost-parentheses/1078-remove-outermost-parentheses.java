@@ -3,19 +3,21 @@ class Solution {
         int n=s.length();
         String ans="";
         StringBuilder sb = new StringBuilder(s);
-        Stack<Integer> st=new Stack<>();
+        int bucket=0;
         for(int i=0;i<n;i++){
-            char c=s.charAt(i);
-            if(c=='('){
-                st.push(i);
+           if(bucket==0){
+            sb.setCharAt(i,'*');
+           }
+           if(s.charAt(i)=='('){
+            bucket++;
+           }
+           else{
+            bucket--;
+            if(bucket==0){
+               sb.setCharAt(i,'*');
             }
-            else{
-                int t=st.pop();
-                if(st.isEmpty()){
-                    sb.setCharAt(t,'*');
-                    sb.setCharAt(i,'*');
-                }
-            }
+           }
+
         }
         for(int i=0;i<sb.length();i++){
             if(sb.charAt(i)!='*'){
