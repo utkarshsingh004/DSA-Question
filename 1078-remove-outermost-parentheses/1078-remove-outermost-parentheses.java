@@ -7,6 +7,8 @@ class Solution {
         for(int i=0;i<n;i++){
            if(bucket==0){
             sb.setCharAt(i,'*');
+            bucket++;
+            continue;
            }
            if(s.charAt(i)=='('){
             bucket++;
@@ -15,15 +17,13 @@ class Solution {
             bucket--;
             if(bucket==0){
                sb.setCharAt(i,'*');
+               continue;
             }
            }
+           ans+=s.charAt(i);
 
         }
-        for(int i=0;i<sb.length();i++){
-            if(sb.charAt(i)!='*'){
-                ans+=sb.charAt(i);
-            }
-        }
+        
         return ans;
     }
 }
