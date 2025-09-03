@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1542-consecutive-characters](https://github.com/utkarshsingh004/DSA-Question/tree/master/1542-consecutive-characters) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/utkarshsingh004/DSA-Question/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Matrix
 |  |
