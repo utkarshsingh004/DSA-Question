@@ -1,35 +1,35 @@
 class MinStack {
-    Stack<Integer> s = new Stack<>();
+    class Node{
+        int val;
+        int m;
+        Node(int val, int m){
+            this.val=val;
+            this.m=m;
+        }
+    }
+    Stack<Node> s = new Stack<>();
     int min=Integer.MAX_VALUE;
     public void push(int val) {
+        if(s.isEmpty()) min=Integer.MAX_VALUE;
         if(min>val){
             min=val;
         }
-        s.push(val);
+        Node temp=new Node(val,min);
+        s.push(temp);
+        System.out.print(temp.val+","+temp.m+" / ");
     }
     
     public void pop() {
         s.pop();
-        int min2=Integer.MAX_VALUE;
-        Stack<Integer> g = new Stack<>();
-        while(s.size()!=0){
-            if(min2>s.peek() && min2>=min){
-                min2=s.peek();
-            }
-            g.push(s.pop());
-        }
-        while(g.size()!=0){
-            s.push(g.pop());
-        }
-        min=min2;
+        if(!s.isEmpty()) min=s.peek().m;
     }
     
     public int top() {
-        return s.peek();
+        return s.peek().val;
     }
     
     public int getMin() {
-        return min;
+        return s.peek().m ;
     }
 }
 
