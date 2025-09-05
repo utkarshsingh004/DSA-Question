@@ -1,25 +1,36 @@
 class Solution {
     public int maxScore(int[] arr, int k) {
         int n=arr.length;
-        int pref[] = new int[n];
-        int suff[] = new int[n];
-        pref[0]=arr[0];
-        suff[n-1]=arr[n-1];
-        int max=0;
-        for(int i=1;i<n;i++){
-            pref[i]=pref[i-1]+arr[i];
-            suff[n-1-i]=suff[n-i]+arr[n-1-i];
+        int p=0;
+        for(int i=0;i<k;i++){
+            p+=arr[i];
         }
-        max=Math.max(pref[k-1],suff[n-k]);
-        System.out.print(max);
-        int i=k-2;
-        int j=n-1;
-        while(i>=0){
-            if(j<i) break;
-            int sum=pref[i]+suff[j];
-            max=Math.max(max,sum);
-            j--;
+        System.out.print(p);
+        int i=k-1;
+        int j=n;
+        int s=0;
+        int sum=0;
+        int max=0;
+        while(i>=-1){
+            if(i>j){
+                break;
+            }
+            if(j==n){
+                sum=p;
+                // s=arr[j];
+            }
+            else if(i==-1){
+                sum=s+arr[j];
+            }
+            else{
+                s+=arr[j];
+                System.out.print(s);
+                p=p-arr[i+1];
+                sum=p+s;
+            }
             i--;
+            j--;
+            max=Math.max(max,sum);
         }
         return max;
     }
