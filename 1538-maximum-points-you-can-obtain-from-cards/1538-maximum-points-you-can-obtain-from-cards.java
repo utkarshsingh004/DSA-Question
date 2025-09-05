@@ -1,36 +1,23 @@
 class Solution {
     public int maxScore(int[] arr, int k) {
-        int n=arr.length;
-        int p=0;
-        for(int i=0;i<k;i++){
-            p+=arr[i];
+        int n = arr.length;
+        
+        // Step 1: take first k cards
+        int leftSum = 0;
+        for (int i = 0; i < k; i++) {
+            leftSum += arr[i];
         }
-        System.out.print(p);
-        int i=k-1;
-        int j=n;
-        int s=0;
-        int sum=0;
-        int max=0;
-        while(i>=-1){
-            if(i>j){
-                break;
-            }
-            if(j==n){
-                sum=p;
-            }
-            else if(i==-1){
-                sum=s+arr[j];
-            }
-            else{
-                s+=arr[j];
-                System.out.print(s);
-                p=p-arr[i+1];
-                sum=p+s;
-            }
-            i--;
-            j--;
-            max=Math.max(max,sum);
+        
+        int max = leftSum;
+        int rightSum = 0;
+        
+        // Step 2: replace from the back one by one
+        for (int i = 0; i < k; i++) {
+            rightSum += arr[n - 1 - i];   // add from back
+            leftSum -= arr[k - 1 - i];    // remove from front
+            max = Math.max(max, leftSum + rightSum);
         }
+        
         return max;
     }
 }
