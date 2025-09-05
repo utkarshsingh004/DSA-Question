@@ -17,7 +17,6 @@ class Solution {
             }
             if(j==n){
                 sum=p;
-                // s=arr[j];
             }
             else if(i==-1){
                 sum=s+arr[j];
