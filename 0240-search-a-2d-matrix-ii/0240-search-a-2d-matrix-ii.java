@@ -5,12 +5,8 @@ class Solution {
         int i=0;
         int j=m-1;
         while(i<n && j>=0){
-            if(matrix[i][j]==target){
-                return true;
-            }
-            else if(matrix[i][j]<target){
-                i++;
-            }
+            if(matrix[i][j]==target) return true;
+            else if(matrix[i][j]<target) i++;
             else j--;
         }
         return false;
