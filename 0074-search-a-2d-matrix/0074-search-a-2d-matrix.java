@@ -6,16 +6,11 @@ class Solution {
         int j=n*m-1;
         while(i<=j){
             int mid=i+(j-i)/2;
-            int midElement= matrix[mid/m][mid%m];
-            if(midElement==target){
+            if(matrix[mid/m][mid%m]==target){
                 return true;
             }
-            else if(midElement<target){
-                i=mid+1;
-            }
-            else{
-                j=mid-1;
-            }
+            else if(matrix[mid/m][mid%m]<target) i=mid+1;
+            else j=mid-1;
         }
         return false;
     }
