@@ -1,24 +1,18 @@
 class Solution {
     public int[] rowAndMaximumOnes(int[][] mat) {
-        int n=mat.length;
-        int m=mat[0].length;
-        int arr[] = new int [2];
+        int arr[] = new int[2];
         int max=0;
-        int idx=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<mat.length;i++){
             int count=0;
-            for(int j=0;j<m;j++){
-                if(mat[i][j]==1){
-                    count++;
-                }
+            for(int j=0;j<mat[i].length;j++){
+                if(mat[i][j]==1) count++;
             }
-             if (count > max) {
-                max = count;
-                idx = i;
+            if(max<count){
+                max=count;
+                arr[0]=i;
+                arr[1]=max;
             }
         }
-        arr[0]=idx;
-        arr[1]=max;
         return arr;
     }
 }
