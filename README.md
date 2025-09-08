@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/utkarshsingh004/DSA-Question/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/utkarshsingh004/DSA-Question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/utkarshsingh004/DSA-Question/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/utkarshsingh004/DSA-Question/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/utkarshsingh004/DSA-Question/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0189-rotate-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/utkarshsingh004/DSA-Question/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/utkarshsingh004/DSA-Question/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh004/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/utkarshsingh004/DSA-Question/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
