@@ -2,9 +2,7 @@ class Solution {
     private int mini(int arr[], int idx, int dp[]){
         if(idx>=arr.length) return 0;
         if(dp[idx]!=-1) return dp[idx];
-        int a=arr[idx]+mini(arr,idx+1,dp);
-        int b=arr[idx]+mini(arr,idx+2,dp);
-        return dp[idx]=Math.min(a,b);
+        return dp[idx]=arr[idx]+Math.min(mini(arr,idx+1,dp),mini(arr,idx+2,dp));
     }
     public int minCostClimbingStairs(int[] cost) {
         int dp[]=new int[cost.length];
