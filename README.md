@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/utkarshsingh004/DSA-Question/tree/master/0940-fruit-into-baskets) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1542-consecutive-characters](https://github.com/utkarshsingh004/DSA-Question/tree/master/1542-consecutive-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/utkarshsingh004/DSA-Question/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh004/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
