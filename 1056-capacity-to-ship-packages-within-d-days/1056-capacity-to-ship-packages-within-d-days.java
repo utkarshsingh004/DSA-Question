@@ -1,57 +1,44 @@
 class Solution {
-
-    private int max(int arr[]){
-        int m=0;
-        for(int i=0;i<arr.length;i++){
-            if(m<arr[i]){
-                m=arr[i];
-            }
-        }
-        return m;
-    }
-
-    private int sum(int arr[]){
-         int m=0;
-        for(int i=0;i<arr.length;i++){
-            m+=arr[i];
-        }
-        return m;
-    }
-
-    private int total(int arr[], int num){
+    private int weight(int arr[], int mid){
         int n=arr.length;
         int count=0;
         int sum=0;
         for(int i=0;i<n;i++){
             sum+=arr[i];
-            if(sum==num){
+            if(sum==mid){
                 count++;
                 sum=0;
             }
-            else if(sum>num){
+            else if(sum>mid){
                 count++;
                 sum=arr[i];
             }
         }
-        if(sum!=0){
-            count++;
-        }
+        if(sum!=0) count++;
+        System.out.print(count);
         return count;
     }
-
     public int shipWithinDays(int[] weights, int days) {
-        int i=max(weights);
-        int j=sum(weights);
+        int n=weights.length;
+        int sum=0;
+        int max=0;
+        for(int i=0;i<n;i++){
+            if(max<weights[i]){
+                max=weights[i];
+            }
+            sum+=weights[i];
+        }
+        int i=max;
+        int j=sum;
         int ans=0;
         while(i<=j){
             int mid=i+(j-i)/2;
-            if(total(weights, mid)<=days){
-                ans=mid;
-                j=mid-1;
+            int a=weight(weights,mid);
+            if(a<=days){
+               ans=mid;
+               j=mid-1;
             }
-            else{
-                i=mid+1;
-            }
+            else i=mid+1;
         }
         return ans;
     }
