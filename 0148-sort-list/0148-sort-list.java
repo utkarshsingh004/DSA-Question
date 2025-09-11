@@ -1,38 +1,52 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-    private ListNode middle(ListNode head) {
-        ListNode slow = head, fast = head;
-        while (fast != null && fast.next != null && fast.next.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
+    private ListNode middle(ListNode head){
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast.next!=null && fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        return slow; // last node of left half
+        return slow;
     }
-
-    private ListNode merge(ListNode h1, ListNode h2) {
-        ListNode temp = new ListNode(0);
-        ListNode t = temp;
-        while (h1 != null && h2 != null) {
-            if (h1.val < h2.val) {
-                t.next = h1;
-                h1 = h1.next;
-            } else {
-                t.next = h2;
-                h2 = h2.next;
+    private ListNode merge(ListNode left, ListNode right){
+        ListNode temp=new ListNode(-1);
+        ListNode t=temp;
+        while(left!=null && right!=null){
+            if(left.val<=right.val){
+                t.next=left;
+                left=left.next;
             }
-            t = t.next;
+            else{
+                t.next=right;
+                right=right.next;
+            }
+            t=t.next;
         }
-        if (h1 != null) t.next = h1;
-        if (h2 != null) t.next = h2;
+        if(left!=null){
+            t.next=left;
+        }
+        if(right!=null){
+            t.next=right;
+        }
         return temp.next;
     }
-
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) return head;
-        ListNode mid = middle(head);
-        ListNode right = mid.next;
-        mid.next = null;
+        if(head==null || head.next==null) return head;
+        ListNode temp=middle(head);
+        ListNode right=temp.next;
+        temp.next=null;
         ListNode left = sortList(head);
-        right = sortList(right);
-        return merge(left, right);
+        right=sortList(right);
+        return merge(left,right);
     }
 }
