@@ -1,27 +1,56 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
+    private int size(ListNode head) {
+        int s = 0;
+        while (head != null) {
+            s++;
+            head = head.next;
+        }
+        return s;
+    }
+
+    private int add(ListNode l1, ListNode l2, int carry) {
+        if (l1 == null && l2 == null) return carry;
+
+        int sum = carry;
+        if (l1 != null) sum += l1.val;
+        if (l2 != null) sum += l2.val;
+
+        int newCarry = sum / 10;
+        int digit = sum % 10;
+
+        if (l1 != null) l1.val = digit; // store result in l1
+
+        // move to next nodes
+        int nextCarry = add(l1 != null ? l1.next : null,
+                            l2 != null ? l2.next : null,
+                            newCarry);
+
+        return nextCarry;
+    }
+
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(0); // Dummy node to build the result list
-        ListNode current = dummy; // Pointer to track the last node
-        int carry = 0;
+        int m = size(l1), n = size(l2);
+        if (m < n) return addTwoNumbers(l2, l1); // always keep l1 as longer
 
-        while (l1 != null || l2 != null || carry > 0) {
-            int sum = carry;
+        int carry = add(l1, l2, 0);
 
-            if (l1 != null) {
-                sum += l1.val;
-                l1 = l1.next;
-            }
-
-            if (l2 != null) {
-                sum += l2.val;
-                l2 = l2.next;
-            }
-
-            carry = sum / 10; // Compute new carry
-            current.next = new ListNode(sum % 10); // Store single-digit sum in the new node
-            current = current.next;
+        if (carry > 0) {
+            ListNode temp = new ListNode(carry);
+            ListNode ptr = l1;
+            while (ptr.next != null) ptr = ptr.next;
+            ptr.next = temp;
         }
 
-        return dummy.next; // Return the real head (dummy's next)
+        return l1;
     }
 }
