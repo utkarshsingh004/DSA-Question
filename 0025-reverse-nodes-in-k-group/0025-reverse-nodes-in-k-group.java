@@ -1,55 +1,40 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
-    private ListNode reverse(ListNode head) {
-        if (head == null || head.next == null) {
-            return head;
-        }
-        ListNode temp = reverse(head.next);
-        ListNode h = head.next;
-        h.next = head;
-        head.next = null;
+    private ListNode reverse(ListNode head){
+        if(head==null || head.next==null) return head;
+        ListNode temp=reverse(head.next);
+        head.next.next=head;
+        head.next=null;
         return temp;
     }
-
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null || k <= 1) return head;
-
-        ListNode ans = null;
-        ListNode prevGroupTail = null;
-
-        ListNode temp = head;
-        ListNode groupStart = head;
-        int count = 0;
-
-        while (temp != null) {
-            count++;
-            if (count == k) {
-                ListNode nextGroupHead = temp.next;
-                temp.next = null; // cut current group
-
-                ListNode rev = reverse(groupStart);
-
-                if (ans == null) ans = rev; // first group is head
-                if (prevGroupTail != null) {
-                    prevGroupTail.next = rev; // connect previous group
-                }
-
-                // move to end of reversed group
-                prevGroupTail = groupStart;
-
-                // setup for next group
-                groupStart = nextGroupHead;
-                temp = nextGroupHead;
-                count = 0;
-            } else {
-                temp = temp.next;
-            }
+        if(head==null || head.next==null) return head;
+        ListNode t=head;
+        for(int i=1;i<k;i++){
+            if(t.next==null) return head;
+            t=t.next;
         }
-
-        // If leftover nodes < k, attach them as is
-        if (prevGroupTail != null) {
-            prevGroupTail.next = groupStart;
+        ListNode head2=t.next;
+        t.next=null;
+        ListNode newNode=reverseKGroup(head2,k);
+        ListNode rev=reverse(head);
+        System.out.print(rev.val+" ");
+        ListNode p=rev;
+        while(p.next!=null){
+            // System.out.print(p.val+" ");
+            p=p.next;
         }
-
-        return ans != null ? ans : head;
+        p.next=newNode;
+        // ListNode rev=reverse(head);
+        return rev;
     }
 }
