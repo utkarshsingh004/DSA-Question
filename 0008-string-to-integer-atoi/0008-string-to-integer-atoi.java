@@ -1,31 +1,25 @@
 class Solution {
+    long atoi(String s, int i, long ans){
+        if(ans>Integer.MAX_VALUE) return ans;
+        if(i>=s.length()) return ans;
+        if(i<s.length() && !Character.isDigit(s.charAt(i))) return  ans;
+        int num=s.charAt(i)-'0';
+        return atoi(s, i+1, ans*10+num);
+    }
     public int myAtoi(String s) {
-        if (s == null || s.isEmpty()) return 0;
-
-        int i = 0, n = s.length();
-        // skip leading spaces
-        while (i < n && s.charAt(i) == ' ') i++;
-        if (i == n) return 0;
-
-        // check sign
-        int sign = 1;
-        if (s.charAt(i) == '-' || s.charAt(i) == '+') {
-            sign = (s.charAt(i) == '-') ? -1 : 1;
+        s=s.trim();
+        if(s.length()==0) return 0;
+        int sign=1;
+        int i=0;
+        if(s.charAt(0)=='-' || s.charAt(0)=='+'){
+            sign=s.charAt(0)=='-'?-1:1;
             i++;
         }
-
-        long num = 0;
-        while (i < n && Character.isDigit(s.charAt(i))) {
-            int digit = s.charAt(i) - '0';
-            num = num * 10 + digit;
-
-            // clamp before overflow
-            if (sign == 1 && num > Integer.MAX_VALUE) return Integer.MAX_VALUE;
-            if (sign == -1 && -num < Integer.MIN_VALUE) return Integer.MIN_VALUE;
-
-            i++;
+        long ans=atoi(s,i,0);
+        System.out.print(ans);
+        if(ans>Integer.MAX_VALUE){
+            return sign==1?Integer.MAX_VALUE:Integer.MIN_VALUE;
         }
-
-        return (int)(num * sign);
+        return (int)ans*sign;
     }
 }
