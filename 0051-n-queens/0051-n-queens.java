@@ -63,11 +63,12 @@ class Solution {
         }
     }
     public List<List<String>> solveNQueens(int n) {
+        List<List<String>> l= new ArrayList<>();
+        if(n==3 || n==2) return l;
         char board[][]=new char[n][n];
         for(int i=0;i<n;i++){
             Arrays.fill(board[i],'.');
         }
-        List<List<String>> l= new ArrayList<>();
         nqueen(board,0,n,l);
         return l;
     }
