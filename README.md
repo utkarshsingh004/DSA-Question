@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/utkarshsingh004/DSA-Question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2551-apply-operations-to-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2551-apply-operations-to-an-array) |
+| [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 | [2737-row-with-maximum-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/utkarshsingh004/DSA-Question/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2047-find-a-peak-element-ii) |
+| [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 | [2737-row-with-maximum-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/utkarshsingh004/DSA-Question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2551-apply-operations-to-an-array) |
+| [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 | [3811-reverse-degree-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/3811-reverse-degree-of-a-string) |
 ## Queue
 |  |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
+| [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 ## Trie
 |  |
 | ------- |
