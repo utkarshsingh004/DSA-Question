@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/utkarshsingh004/DSA-Question/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3811-reverse-degree-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/utkarshsingh004/DSA-Question/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/utkarshsingh004/DSA-Question/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/utkarshsingh004/DSA-Question/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/utkarshsingh004/DSA-Question/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
 |  |
 | ------- |
