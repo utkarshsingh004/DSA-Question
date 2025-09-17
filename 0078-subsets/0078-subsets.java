@@ -1,20 +1,17 @@
-import java.util.*;
-
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> arr = new ArrayList<>();
-        int n = nums.length;
-        int s = 1 << n; // total subsets = 2^n
-
-        for (int i = 0; i < s; i++) {
-            List<Integer> a = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                if ((i & (1 << j)) != 0) {
-                    a.add(nums[j]);
-                }
-            }
-            arr.add(a);
+    private void helper(int nums[], int i, List<Integer> l, List<List<Integer>> result){
+        if(i==nums.length){
+            result.add(new ArrayList<>(l));
+            return;
         }
-        return arr;
+        helper(nums,i+1,l,result);
+        l.add(nums[i]);
+        helper(nums,i+1,l,result);
+        l.remove(l.size()-1);
+    }
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> res=new ArrayList<>();
+        helper(nums,0,new ArrayList<>(),res);
+        return res;
     }
 }
