@@ -13,7 +13,6 @@ class Solution {
     }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> l=new ArrayList<>();
-        Arrays.sort(candidates);
         sum(candidates,0,target,new ArrayList<>(),l);
         return l;
     }
