@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshsingh004/DSA-Question/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/utkarshsingh004/DSA-Question/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/utkarshsingh004/DSA-Question/tree/master/0231-power-of-two) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/utkarshsingh004/DSA-Question/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/utkarshsingh004/DSA-Question/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/utkarshsingh004/DSA-Question/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
