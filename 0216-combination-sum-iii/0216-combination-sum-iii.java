@@ -1,19 +1,19 @@
 class Solution {
-    private void helper(int nums[], int i,int k, int n, List<Integer> l, List<List<Integer>> res){
+    private void helper(int idx,int k, int n, List<Integer> l, List<List<Integer>> res){
         if(l.size()==k && n==0){
             res.add(new ArrayList<>(l));
             return;
         }
-        if (i >= nums.length || l.size() > k || n < 0) return;
-        l.add(nums[i]);
-        helper(nums,i+1,k,n-nums[i],l,res);
-        l.remove(l.size()-1);
-        helper(nums,i+1,k,n,l,res);
+       for(int i=idx;i<10;i++){
+        if(idx>n || k<=0) break;
+         l.add(i);
+         helper(i+1,k,n-i,l,res);
+         l.remove(l.size()-1);
+       }
     }
     public List<List<Integer>> combinationSum3(int k, int n) {
-        int arr[] ={1,2,3,4,5,6,7,8,9};
         List<List<Integer>> res=new ArrayList<>();
-        helper(arr,0,k,n,new ArrayList<>(),res);
+        helper(1,k,n,new ArrayList<>(),res);
         return res;
     }
 }
