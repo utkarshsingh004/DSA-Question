@@ -6,7 +6,7 @@ class Solution {
         for(int i=idx;i<s.length();i++){
            ans+=s.charAt(i);
            if(h.contains(ans)){
-            if(helper(s,i+1,h,dp)) return dp[i]=true;
+            if(helper(s,i+1,h,dp)) return dp[idx]=true;
            }
         }
         return dp[idx]=false;
