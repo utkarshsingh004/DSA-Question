@@ -1,75 +1,83 @@
 class Solution {
-    private boolean isSafe(char mat[][], int row, int col){
-        int n=mat.length;
-        for(int j=0;j<mat.length;j++){
-            if(mat[row][j]=='Q') return false;
-        }
-        for(int i=0;i<mat.length;i++){
-            if(mat[i][col]=='Q') return false;
-        }
-        int i=row;
-        int j=col;
-        while(i>=0 && j<mat.length){
-            if(mat[i][j]=='Q') return false;
-            i--;
-            j++;
+    private boolean isValid(char board[][], int row, int col ,int n){
+        int i,j;
+
+        // for col
+        for(j=0;j<n;j++){
+            if(board[row][j]=='Q') return false;
         }
 
-        i=row;
-        j=col;
-        while(i<n && j<n){
-            if(mat[i][j]=='Q') return false;
-            i++;
-            j++;
+        // for row
+        for(i=0;i<n;i++){
+            if(board[i][col]=='Q') return false;
         }
 
-        i=row;
-        j=col;
-        while(i<n && j>=0){
-            if(mat[i][j]=='Q') return false;
-            i++;
-            j--;
-        }
-
+        // for 1-diagonal
         i=row;
         j=col;
         while(i>=0 && j>=0){
-            if(mat[i][j]=='Q') return false;
+            if(board[i][j]=='Q') return false;
             i--;
+            j--;
+        }
+
+        // for 2-diagonal
+        i=row;
+        j=col;
+        while(i<n && j<n){
+            if(board[i][j]=='Q') return false;
+            i++;
+            j++;
+        }
+
+        // for 3-diagonal
+        i=row;
+        j=col;
+        while(i>=0 && j<n){
+            if(board[i][j]=='Q') return false;
+            i--;
+            j++;
+        }
+
+        // for 4-diagonal
+        i=row;
+        j=col;
+        while(i<n && j>=0){
+            if(board[i][j]=='Q') return false;
+            i++;
             j--;
         }
 
         return true;
     }
-    private void nqueen(char mat[][], int row, int n, List<List<String>> l){
-        if(row==n){
-          List<String> l1= new ArrayList<>();
-          for(int i=0;i<n;i++){
-            String str="";
-            for(int j=0;j<n;j++){
-                str+=mat[i][j];
+    private void helper(int n, char board[][], int idx, List<List<String>> res){
+        if(idx==n){
+             List<String> l=new ArrayList<>();
+            for(int i=0;i<n;i++){
+                String ans="";
+                for(int j=0;j<n;j++){
+                    ans+=(board[i][j]);
+                }
+                l.add(ans);
             }
-            l1.add(str);
-          }
-          l.add(l1);
-          return;
+            res.add(new ArrayList<>(l));
+            return;
         }
         for(int j=0;j<n;j++){
-            if(isSafe(mat,row,j)){
-                mat[row][j]='Q';
-                nqueen(mat,row+1,n,l);
-                mat[row][j]='.';
+            if(isValid(board,idx,j,n)){
+                board[idx][j]='Q';
+                helper(n,board,idx+1,res);
+                board[idx][j]='.';
             }
         }
     }
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> l= new ArrayList<>();
-        if(n==3 || n==2) return l;
+        List<List<String>> res=new ArrayList<>();
         char board[][]=new char[n][n];
         for(int i=0;i<n;i++){
             Arrays.fill(board[i],'.');
         }
-        nqueen(board,0,n,l);
-        return l;
+        helper(n,board,0,res);
+        return res;
     }
 }
