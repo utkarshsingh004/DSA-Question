@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/utkarshsingh004/DSA-Question/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/utkarshsingh004/DSA-Question/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/utkarshsingh004/DSA-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/utkarshsingh004/DSA-Question/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/utkarshsingh004/DSA-Question/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/utkarshsingh004/DSA-Question/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/utkarshsingh004/DSA-Question/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh004/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/utkarshsingh004/DSA-Question/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/utkarshsingh004/DSA-Question/tree/master/0282-expression-add-operators) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/utkarshsingh004/DSA-Question/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
