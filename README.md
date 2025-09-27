@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/utkarshsingh004/DSA-Question/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/utkarshsingh004/DSA-Question/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarshsingh004/DSA-Question/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsingh004/DSA-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsingh004/DSA-Question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [0830-largest-triangle-area](https://github.com/utkarshsingh004/DSA-Question/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/utkarshsingh004/DSA-Question/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/utkarshsingh004/DSA-Question/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Matrix
