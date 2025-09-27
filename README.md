@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/utkarshsingh004/DSA-Question/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/utkarshsingh004/DSA-Question/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/utkarshsingh004/DSA-Question/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/utkarshsingh004/DSA-Question/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/utkarshsingh004/DSA-Question/tree/master/0940-fruit-into-baskets) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/utkarshsingh004/DSA-Question/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
+| [0830-largest-triangle-area](https://github.com/utkarshsingh004/DSA-Question/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/utkarshsingh004/DSA-Question/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -619,4 +621,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/utkarshsingh004/DSA-Question/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
