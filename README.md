@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/utkarshsingh004/DSA-Question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2551-apply-operations-to-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 | [2737-row-with-maximum-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/2737-row-with-maximum-ones) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/utkarshsingh004/DSA-Question/tree/master/2050-count-good-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 | [3830-find-closest-person](https://github.com/utkarshsingh004/DSA-Question/tree/master/3830-find-closest-person) |
 ## String
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/utkarshsingh004/DSA-Question/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2551-apply-operations-to-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/utkarshsingh004/DSA-Question/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
