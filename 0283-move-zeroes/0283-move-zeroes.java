@@ -10,13 +10,11 @@ class Solution {
                 nums[j]=temp;
                 i++;
             }
-            else if(nums[i]==0 && nums[j]==0){
-                j++;
-            }
+            else if(nums[i]==0 && nums[j]==0) j++;
             else{
                 i++;
                 j++;
-            }
+            } 
         }
     }
 }
