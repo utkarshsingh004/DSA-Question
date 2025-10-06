@@ -14,35 +14,13 @@
  * }
  */
 class Solution {
-    private boolean palindrome(List<Integer> a){
-        int i=0;
-        int j=a.size()-1;
-        while(i<j){
-            if(a.get(i)!=a.get(j)) return false;
-            i++;
-            j--;
-        }
-        return true;
+    private boolean helper(TreeNode root1, TreeNode root2){
+        if(root1==null && root2==null) return true;
+        if(root1==null || root2==null) return false;
+        return (root1.val==root2.val)&& helper(root1.left, root2.right) && helper(root1.right, root2.left);
     }
     public boolean isSymmetric(TreeNode root) {
-        Queue<TreeNode> q= new LinkedList<>();
-        if(root==null) return true;
-        q.add(root);
-        while(q.size()>0){
-            int s=q.size();
-            List<Integer> l1=new ArrayList<>();
-            for(int i=0;i<s;i++){
-            TreeNode temp=q.peek();
-            if(temp!=null){
-                q.add(temp.left);
-            q.add(temp.right);
-            l1.add(temp.left!=null?temp.left.val:null);
-            l1.add(temp.right!=null?temp.right.val:null);
-            }
-            q.remove();
-            }
-            if(!palindrome(l1)) return false;
-        }
-        return true;
+        if(root==null || (root.left==null && root.right==null)) return true;
+        return helper(root.left,root.right);
     }
 }
