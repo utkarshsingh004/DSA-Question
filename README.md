@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/utkarshsingh004/DSA-Question/tree/master/0940-fruit-into-baskets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/utkarshsingh004/DSA-Question/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -626,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/utkarshsingh004/DSA-Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 ## Trie
 |  |
