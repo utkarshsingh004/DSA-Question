@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/utkarshsingh004/DSA-Question/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/utkarshsingh004/DSA-Question/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2551-apply-operations-to-an-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/utkarshsingh004/DSA-Question/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
 |  |
 | ------- |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -459,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh004/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Monotonic Stack
 |  |
 | ------- |
