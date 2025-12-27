@@ -9,12 +9,15 @@ class Solution {
                 nums[i]=nums[j];
                 nums[j]=temp;
                 i++;
-            }
-            else if(nums[i]==0 && nums[j]==0) j++;
-            else{
-                i++;
                 j++;
-            } 
+            }
+            if(j<n && nums[i]==0 && nums[j]==0){
+                j++;
+            }
+            if(nums[i]!=0){
+              i++;
+              j++;
+            }
         }
     }
 }
