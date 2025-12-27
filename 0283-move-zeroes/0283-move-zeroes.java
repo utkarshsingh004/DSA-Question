@@ -11,10 +11,10 @@ class Solution {
                 i++;
                 j++;
             }
-            if(j<n && nums[i]==0 && nums[j]==0){
+            else if(nums[i]==0 && nums[j]==0){
                 j++;
             }
-            if(nums[i]!=0){
+            else {
               i++;
               j++;
             }
