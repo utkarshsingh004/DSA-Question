@@ -5,15 +5,13 @@ class Solution {
        int j=1;
        int arr[]= new int[n];
        for(int k=0;k<n;k++){
-         if(i<=n-2 && nums[k]>=0){
+         if(nums[k]>=0){
             arr[i]=nums[k];
             i=i+2;
          }
          else{
-            if(j<n){
-                arr[j]=nums[k];
-                j=j+2;
-            }
+            arr[j]=nums[k];
+            j=j+2;
          }
        }
        return arr;
