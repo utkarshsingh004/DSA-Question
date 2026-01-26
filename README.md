@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/utkarshsingh004/DSA-Question/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsingh004/DSA-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1200-minimum-absolute-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/1200-minimum-absolute-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsingh004/DSA-Question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshsingh004/DSA-Question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshsingh004/DSA-Question/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/1200-minimum-absolute-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
