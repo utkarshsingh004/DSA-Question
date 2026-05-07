@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/utkarshsingh004/DSA-Question/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/utkarshsingh004/DSA-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/utkarshsingh004/DSA-Question/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/utkarshsingh004/DSA-Question/tree/master/0343-integer-break) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [0830-largest-triangle-area](https://github.com/utkarshsingh004/DSA-Question/tree/master/0830-largest-triangle-area) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/utkarshsingh004/DSA-Question/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/utkarshsingh004/DSA-Question/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/utkarshsingh004/DSA-Question/tree/master/0198-house-robber) |
+| [0343-integer-break](https://github.com/utkarshsingh004/DSA-Question/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
