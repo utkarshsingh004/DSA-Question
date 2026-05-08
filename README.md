@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2551-apply-operations-to-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/utkarshsingh004/DSA-Question/tree/master/2662-check-knight-tour-configuration) |
 | [2737-row-with-maximum-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/2737-row-with-maximum-ones) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/1200-minimum-absolute-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/utkarshsingh004/DSA-Question/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
+| [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
