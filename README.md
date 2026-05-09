@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/utkarshsingh004/DSA-Question/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/utkarshsingh004/DSA-Question/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/utkarshsingh004/DSA-Question/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/utkarshsingh004/DSA-Question/tree/master/3227-find-missing-and-repeated-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/utkarshsingh004/DSA-Question/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/2128-reverse-prefix-of-word) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/utkarshsingh004/DSA-Question/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2470-removing-stars-from-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/utkarshsingh004/DSA-Question/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/utkarshsingh004/DSA-Question/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Merge Sort
 |  |
