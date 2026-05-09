@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/utkarshsingh004/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/utkarshsingh004/DSA-Question/tree/master/0792-binary-search) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/utkarshsingh004/DSA-Question/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/utkarshsingh004/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/utkarshsingh004/DSA-Question/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/utkarshsingh004/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/utkarshsingh004/DSA-Question/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/utkarshsingh004/DSA-Question/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/utkarshsingh004/DSA-Question/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/utkarshsingh004/DSA-Question/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/utkarshsingh004/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
 | [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
