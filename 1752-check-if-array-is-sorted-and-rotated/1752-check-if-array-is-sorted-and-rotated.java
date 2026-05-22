@@ -5,6 +5,6 @@ class Solution {
             if(nums[i]>nums[i+1]) count++;
         }
         if(count==0) return true;
-        return count==1 && nums[nums.length-1]<=nums[0];
+        return count==1 && nums[0]>=nums[nums.length-1];
     }
 }
