@@ -1,7 +1,8 @@
 class Solution {
     public void nextPermutation(int[] nums) {
+        int n=nums.length;
         int idx=-1;
-        for(int i=nums.length-1;i>0;i--){
+        for(int i=n-1;i>0;i--){
             if(nums[i]>nums[i-1]){
                 idx=i-1;
                 break;
@@ -11,17 +12,15 @@ class Solution {
             Arrays.sort(nums);
             return;
         }
-        int j=-1;
-        int min=Integer.MAX_VALUE;
-        for(int i=idx+1;i<nums.length;i++){
-            if(nums[i]>nums[idx] && nums[i]<min){
-                min=nums[i];
-                j=i;
+        int min=idx+1;
+        for(int j=idx+1;j<n;j++){
+            if(nums[min]>nums[j] && nums[j]>nums[idx]){
+                min=j;
             }
         }
         int temp=nums[idx];
-        nums[idx]=nums[j];
-        nums[j]=temp;
-        Arrays.sort(nums,idx+1,nums.length);
+        nums[idx]=nums[min];
+        nums[min]=temp;
+        Arrays.sort(nums,idx+1,n);
     }
 }
