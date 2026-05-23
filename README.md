@@ -693,4 +693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/utkarshsingh004/DSA-Question/tree/master/0830-largest-triangle-area) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/utkarshsingh004/DSA-Question/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
