@@ -1,35 +1,31 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> ans = new ArrayList<>();
-        HashSet<List<Integer>> h=new HashSet<>();
-        Arrays.sort(nums);
         int n=nums.length;
+        long t = target;
+        Arrays.sort(nums);
         for(int i=0;i<n-3;i++){
             if(i>0 && nums[i]==nums[i-1]) continue;
             for(int j=i+1;j<n-2;j++){
                 if(j>i+1 && nums[j]==nums[j-1]) continue;
                 int k=j+1;
                 int l=n-1;
-                long t=(long)target-((long)nums[i]+(long)nums[j]);
                 while(k<l){
-                    long sum=(long)nums[l]+(long)nums[k];
+                    long sum=(long)nums[i]+(long)nums[j]+(long)nums[k]+(long)nums[l];
+                    // System.out.print(sum);
                     if(sum==t){
-                        ans.add(Arrays.asList(nums[i],nums[j],nums[k],nums[l]));
-                        k++;
-                        l--;
-                        while(k<l && nums[k]==nums[k-1]) k++;
-                        while(k<l && nums[l]==nums[l+1]) l--;
+                       List<Integer> L = Arrays.asList(nums[i],nums[j],nums[k],nums[l]);
+                       ans.add(L);
+                       k++;
+                       l--;
+                       while(k<l && nums[k]==nums[k-1]) k++;
+                       while(k<l && nums[l]==nums[l+1]) l--;
                     }
-                    else if(sum<t){
-                        k++;
-                    }
-                    else{
-                        l--;
-                    }
+                    else if(sum<t) k++;
+                    else l--;
                 }
             }
         }
-        // List<List<Integer>> ans = new ArrayList<>(h);
         return ans;
     }
 }
