@@ -17,7 +17,7 @@ class Solution {
         while(min<=max){
             int mid=min+(max-min)/2;
             long a=helper(piles,mid);
-            if(a==h){
+            if(a==(long)h){
                 idx=mid;
                 max=mid-1;
             }
