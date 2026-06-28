@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2498-frog-jump-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2498-frog-jump-ii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2553-separate-the-digits-in-an-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkarshsingh004/DSA-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2498-frog-jump-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2498-frog-jump-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2047-find-a-peak-element-ii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2498-frog-jump-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2498-frog-jump-ii) |
 | [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshsingh004/DSA-Question/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
