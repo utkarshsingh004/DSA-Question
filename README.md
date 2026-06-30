@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/utkarshsingh004/DSA-Question/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/utkarshsingh004/DSA-Question/tree/master/0451-sort-characters-by-frequency) |
+| [0520-detect-capital](https://github.com/utkarshsingh004/DSA-Question/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [0812-rotate-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/0812-rotate-string) |
