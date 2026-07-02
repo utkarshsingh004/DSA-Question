@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0287-find-the-duplicate-number) |
 | [0403-frog-jump](https://github.com/utkarshsingh004/DSA-Question/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/utkarshsingh004/DSA-Question/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/utkarshsingh004/DSA-Question/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/utkarshsingh004/DSA-Question/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/utkarshsingh004/DSA-Question/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/1013-fibonacci-number) |
