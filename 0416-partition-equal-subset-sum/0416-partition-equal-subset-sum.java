@@ -18,16 +18,16 @@ class Solution {
             dp[i][0]=true;
         }
 
-        for(int i=n-1;i>=0;i--){
+        for(int i=1;i<n;i++){
             for(int j=1;j<=target;j++){
                 boolean inc=false;
                 if(j-nums[i]>=0){
-                    inc=dp[i+1][j-nums[i]];
+                    inc=dp[i-1][j-nums[i]];
                 }
-                boolean ex=dp[i+1][j];
+                boolean ex=dp[i-1][j];
                 dp[i][j]=inc||ex;
             }
         }
-        return dp[0][target];
+        return dp[n-1][target];
     }
 }
