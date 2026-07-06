@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/utkarshsingh004/DSA-Question/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/utkarshsingh004/DSA-Question/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1288-remove-covered-intervals) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/utkarshsingh004/DSA-Question/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/utkarshsingh004/DSA-Question/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/utkarshsingh004/DSA-Question/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/utkarshsingh004/DSA-Question/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkarshsingh004/DSA-Question/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshsingh004/DSA-Question/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2501-longest-square-streak-in-an-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2501-longest-square-streak-in-an-array) |
