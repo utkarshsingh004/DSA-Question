@@ -1,29 +1,16 @@
-import java.util.Stack;
-
 class Solution {
     public boolean isValid(String s) {
+        int n=s.length();
         Stack<Character> st = new Stack<>();
-        int n = s.length();
-        
-        for (int i = 0; i < n; i++) {
-            char ch = s.charAt(i);
-            
-            if (ch == '(' || ch == '{' || ch == '[') {
-                st.push(ch);
-            } else {
-                if (st.isEmpty()) return false; // Check if stack is empty before peeking
-                
-                char top = st.peek();
-                if ((ch == ')' && top == '(') ||
-                    (ch == '}' && top == '{') ||
-                    (ch == ']' && top == '[')) {
-                    st.pop();
-                } else {
-                    return false;
-                }
+        for(int i=0;i<n;i++){
+            if(s.charAt(i)=='(' || s.charAt(i)=='{' || s.charAt(i)=='[') st.push(s.charAt(i));
+            else{
+                if(st.size()!=0 && st.peek()=='(' && s.charAt(i)==')') st.pop();
+                else if(!st.isEmpty() && st.peek()=='{' && s.charAt(i)=='}') st.pop();
+                else if(!st.isEmpty() && st.peek()=='[' && s.charAt(i)==']') st.pop();
+                else return false;
             }
         }
-        
-        return st.isEmpty(); // Stack should be empty for a valid sequence
+        return st.isEmpty();
     }
 }
