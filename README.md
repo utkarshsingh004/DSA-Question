@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/utkarshsingh004/DSA-Question/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/utkarshsingh004/DSA-Question/tree/master/0560-subarray-sum-equals-k) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/utkarshsingh004/DSA-Question/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/utkarshsingh004/DSA-Question/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/utkarshsingh004/DSA-Question/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/utkarshsingh004/DSA-Question/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/utkarshsingh004/DSA-Question/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/utkarshsingh004/DSA-Question/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/utkarshsingh004/DSA-Question/tree/master/0937-online-stock-span) |
 ## Design
 |  |
