@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/utkarshsingh004/DSA-Question/tree/master/1291-sequential-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/utkarshsingh004/DSA-Question/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/utkarshsingh004/DSA-Question/tree/master/2337-remove-digit-from-number-to-maximize-result) |
