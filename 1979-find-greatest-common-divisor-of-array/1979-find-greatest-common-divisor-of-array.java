@@ -5,7 +5,12 @@ class Solution {
     }
     public int findGCD(int[] nums) {
         int n=nums.length;
-        Arrays.sort(nums);
-        return gcd(nums[n-1],nums[0]);
+        int max=0;
+        int min=Integer.MAX_VALUE;
+        for(int i=0;i<n;i++){
+            max=Math.max(max,nums[i]);
+            min=Math.min(min,nums[i]);
+        }
+        return gcd(max,min);
     }
 }
