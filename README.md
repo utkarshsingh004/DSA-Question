@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/utkarshsingh004/DSA-Question/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkarshsingh004/DSA-Question/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2047-find-a-peak-element-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/2047-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshsingh004/DSA-Question/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/utkarshsingh004/DSA-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/utkarshsingh004/DSA-Question/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/utkarshsingh004/DSA-Question/tree/master/1642-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/utkarshsingh004/DSA-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/utkarshsingh004/DSA-Question/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/utkarshsingh004/DSA-Question/tree/master/2050-count-good-numbers) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshsingh004/DSA-Question/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarshsingh004/DSA-Question/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkarshsingh004/DSA-Question/tree/master/3658-gcd-of-odd-and-even-sums) |
