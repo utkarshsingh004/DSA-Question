@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/utkarshsingh004/DSA-Question/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/utkarshsingh004/DSA-Question/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/utkarshsingh004/DSA-Question/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/utkarshsingh004/DSA-Question/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/utkarshsingh004/DSA-Question/tree/master/0539-minimum-time-difference) |
 | [0640-solve-the-equation](https://github.com/utkarshsingh004/DSA-Question/tree/master/0640-solve-the-equation) |
 | [0830-largest-triangle-area](https://github.com/utkarshsingh004/DSA-Question/tree/master/0830-largest-triangle-area) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/utkarshsingh004/DSA-Question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/utkarshsingh004/DSA-Question/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/utkarshsingh004/DSA-Question/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/utkarshsingh004/DSA-Question/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/utkarshsingh004/DSA-Question/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/utkarshsingh004/DSA-Question/tree/master/0493-reverse-pairs) |
